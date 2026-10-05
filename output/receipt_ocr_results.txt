@@ -1,0 +1,19 @@
+RECEIPT OCR WORD SCORES
+=======================
+
+Before preprocessing: 82.95% (22 words detected, PSM 11)
+After preprocessing: 77.69% (55 words detected, PSM 11)
+Wrong-order pipeline: 67.88% (51 words detected, PSM 11)
+Improvement after preprocessing: -5.26 percentage points
+
+OCR TEXT - BEFORE PREPROCESSING
+================================
+PUS STORE la Hsueh Rd., Hualien 90-3000 32 a 12 ua 45 70 85 30 65 295 15 310 500 190 Again
+
+OCR TEXT - AFTER PREPROCESSING
+===============================
+NDHU CAMPUS STORE ‘No.1, Sec.2, Oa Hsueh Rd., Huatien _: TEL 083-896-3000 ee 2026-69-14 16:32 Receipt No. 604512 Black Tea (L) 45 Rice Ball x2 78 Notebook Ad 85 Pen Blue 6.5 36 Coffee Latte 65 SUBTOTAL 295 TAX 5% TOTAL 316 CASH 560 CHANGE 196 THANK YOU - Visit Again oR EEC Pre Rereneretnrrery|
+
+OCR TEXT - WRONG ORDER
+=======================
+NDHU CAMPUS STORE No. 1, Sec. 2 Da Hsuen Rd. er ‘Hualie TEL 83-890-300¢ 2026: -09- 14.10:32 Recei t-No. 00451 Black Tea’ (L) Rice Ball x2 70 Notebook’ Ad Pen Blue. 9. 5 30 Coffee Latte SUBTOTA\ 295 TAX 5) 15 TOTAL 310 CASH 500 CHANGE 190 THANK YOu". Visit ig
